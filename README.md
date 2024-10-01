@@ -1,4 +1,4 @@
-Capstone Project: Online Instruments Sales Platform
+apstone Project: Online Instruments Sales Platform
 
 Group 5:  
 Xiao Su 2097658  
